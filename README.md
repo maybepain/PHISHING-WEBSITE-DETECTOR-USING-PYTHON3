@@ -39,17 +39,17 @@ The model is trained on the UCI Phishing Websites Dataset, which contains thousa
 Clone the repository:
 
 Bash
-```git clone https://github.com/yourusername/phishing-website-detector.git
-cd phishing-website-detector
+```git clone https://github.com/yourusername/phishing-website-detector.git```
+```cd phishing-website-detector ```
 Install dependencies:
 
 Bash
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Run the detector:
 
 Bash
-python detector.py --url http://example-phishing-link.com
+```python input.py```
 📝 Project Structure
 data/: Contains the raw and processed CSV datasets.
 
