@@ -39,7 +39,7 @@ The model is trained on the UCI Phishing Websites Dataset, which contains thousa
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/phishing-website-detector.git
+```git clone https://github.com/yourusername/phishing-website-detector.git
 cd phishing-website-detector
 Install dependencies:
 
