@@ -45,6 +45,7 @@ Install dependencies:
 
 Bash
 pip install -r requirements.txt
+
 Run the detector:
 
 Bash
