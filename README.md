@@ -36,20 +36,18 @@ The model is trained on the UCI Phishing Websites Dataset, which contains thousa
 -1: Phishing
 
 ⚙️ Installation & Usage
-Clone the repository:
 
-Bash
+Clone the repository:
 ```git clone https://github.com/yourusername/phishing-website-detector.git```
 ```cd phishing-website-detector ```
-Install dependencies:
 
-Bash
+Install dependencies:
 ```pip install -r requirements.txt```
 
 Run the detector:
-
-Bash
 ```python input.py```
+
+
 📝 Project Structure
 data/: Contains the raw and processed CSV datasets.
 
